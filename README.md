@@ -1,2 +1,4 @@
 # coderefactor
-This is an HTML sit with css and SEO best practices
+This is an HTML site with css and SEO's best practices.
+Challenge 1
+
